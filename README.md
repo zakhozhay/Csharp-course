@@ -1,2 +1,2 @@
-# for-students
+# Csharp learning course
 Education samples
