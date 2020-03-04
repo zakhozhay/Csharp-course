@@ -1,0 +1,10 @@
+D:\Clouds\GoogleDrive\zakhozhay.oleg\My Projects\Visual Studio\Course\1 Types\Branching\bin\Debug\netcoreapp3.0\3 Branching.exe
+D:\Clouds\GoogleDrive\zakhozhay.oleg\My Projects\Visual Studio\Course\1 Types\Branching\bin\Debug\netcoreapp3.0\3 Branching.deps.json
+D:\Clouds\GoogleDrive\zakhozhay.oleg\My Projects\Visual Studio\Course\1 Types\Branching\bin\Debug\netcoreapp3.0\3 Branching.runtimeconfig.json
+D:\Clouds\GoogleDrive\zakhozhay.oleg\My Projects\Visual Studio\Course\1 Types\Branching\bin\Debug\netcoreapp3.0\3 Branching.runtimeconfig.dev.json
+D:\Clouds\GoogleDrive\zakhozhay.oleg\My Projects\Visual Studio\Course\1 Types\Branching\bin\Debug\netcoreapp3.0\3 Branching.dll
+D:\Clouds\GoogleDrive\zakhozhay.oleg\My Projects\Visual Studio\Course\1 Types\Branching\bin\Debug\netcoreapp3.0\3 Branching.pdb
+D:\Clouds\GoogleDrive\zakhozhay.oleg\My Projects\Visual Studio\Course\1 Types\Branching\obj\Debug\netcoreapp3.0\3 Branching.AssemblyInfoInputs.cache
+D:\Clouds\GoogleDrive\zakhozhay.oleg\My Projects\Visual Studio\Course\1 Types\Branching\obj\Debug\netcoreapp3.0\3 Branching.AssemblyInfo.cs
+D:\Clouds\GoogleDrive\zakhozhay.oleg\My Projects\Visual Studio\Course\1 Types\Branching\obj\Debug\netcoreapp3.0\3 Branching.dll
+D:\Clouds\GoogleDrive\zakhozhay.oleg\My Projects\Visual Studio\Course\1 Types\Branching\obj\Debug\netcoreapp3.0\3 Branching.pdb

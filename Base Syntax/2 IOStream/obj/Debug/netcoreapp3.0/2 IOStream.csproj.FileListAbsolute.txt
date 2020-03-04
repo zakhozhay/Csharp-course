@@ -1,0 +1,11 @@
+D:\Clouds\GoogleDrive\zakhozhay.oleg\My Projects\Visual Studio\Course\1 Types\2 IOStream\bin\Debug\netcoreapp3.0\2 IOStream.exe
+D:\Clouds\GoogleDrive\zakhozhay.oleg\My Projects\Visual Studio\Course\1 Types\2 IOStream\bin\Debug\netcoreapp3.0\2 IOStream.deps.json
+D:\Clouds\GoogleDrive\zakhozhay.oleg\My Projects\Visual Studio\Course\1 Types\2 IOStream\bin\Debug\netcoreapp3.0\2 IOStream.runtimeconfig.json
+D:\Clouds\GoogleDrive\zakhozhay.oleg\My Projects\Visual Studio\Course\1 Types\2 IOStream\bin\Debug\netcoreapp3.0\2 IOStream.runtimeconfig.dev.json
+D:\Clouds\GoogleDrive\zakhozhay.oleg\My Projects\Visual Studio\Course\1 Types\2 IOStream\bin\Debug\netcoreapp3.0\2 IOStream.dll
+D:\Clouds\GoogleDrive\zakhozhay.oleg\My Projects\Visual Studio\Course\1 Types\2 IOStream\bin\Debug\netcoreapp3.0\2 IOStream.pdb
+D:\Clouds\GoogleDrive\zakhozhay.oleg\My Projects\Visual Studio\Course\1 Types\2 IOStream\obj\Debug\netcoreapp3.0\2 IOStream.csprojAssemblyReference.cache
+D:\Clouds\GoogleDrive\zakhozhay.oleg\My Projects\Visual Studio\Course\1 Types\2 IOStream\obj\Debug\netcoreapp3.0\2 IOStream.AssemblyInfoInputs.cache
+D:\Clouds\GoogleDrive\zakhozhay.oleg\My Projects\Visual Studio\Course\1 Types\2 IOStream\obj\Debug\netcoreapp3.0\2 IOStream.AssemblyInfo.cs
+D:\Clouds\GoogleDrive\zakhozhay.oleg\My Projects\Visual Studio\Course\1 Types\2 IOStream\obj\Debug\netcoreapp3.0\2 IOStream.dll
+D:\Clouds\GoogleDrive\zakhozhay.oleg\My Projects\Visual Studio\Course\1 Types\2 IOStream\obj\Debug\netcoreapp3.0\2 IOStream.pdb

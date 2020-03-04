@@ -1,0 +1,10 @@
+D:\Clouds\GoogleDrive\zakhozhay.oleg\My Projects\Visual Studio\Course\1 Types\ConsoleApp1\bin\Debug\netcoreapp3.0\4 MathFunction.exe
+D:\Clouds\GoogleDrive\zakhozhay.oleg\My Projects\Visual Studio\Course\1 Types\ConsoleApp1\bin\Debug\netcoreapp3.0\4 MathFunction.deps.json
+D:\Clouds\GoogleDrive\zakhozhay.oleg\My Projects\Visual Studio\Course\1 Types\ConsoleApp1\bin\Debug\netcoreapp3.0\4 MathFunction.runtimeconfig.json
+D:\Clouds\GoogleDrive\zakhozhay.oleg\My Projects\Visual Studio\Course\1 Types\ConsoleApp1\bin\Debug\netcoreapp3.0\4 MathFunction.runtimeconfig.dev.json
+D:\Clouds\GoogleDrive\zakhozhay.oleg\My Projects\Visual Studio\Course\1 Types\ConsoleApp1\bin\Debug\netcoreapp3.0\4 MathFunction.dll
+D:\Clouds\GoogleDrive\zakhozhay.oleg\My Projects\Visual Studio\Course\1 Types\ConsoleApp1\bin\Debug\netcoreapp3.0\4 MathFunction.pdb
+D:\Clouds\GoogleDrive\zakhozhay.oleg\My Projects\Visual Studio\Course\1 Types\ConsoleApp1\obj\Debug\netcoreapp3.0\4 MathFunction.AssemblyInfoInputs.cache
+D:\Clouds\GoogleDrive\zakhozhay.oleg\My Projects\Visual Studio\Course\1 Types\ConsoleApp1\obj\Debug\netcoreapp3.0\4 MathFunction.AssemblyInfo.cs
+D:\Clouds\GoogleDrive\zakhozhay.oleg\My Projects\Visual Studio\Course\1 Types\ConsoleApp1\obj\Debug\netcoreapp3.0\4 MathFunction.dll
+D:\Clouds\GoogleDrive\zakhozhay.oleg\My Projects\Visual Studio\Course\1 Types\ConsoleApp1\obj\Debug\netcoreapp3.0\4 MathFunction.pdb

@@ -1,0 +1,12 @@
+D:\Documents\Desktop\C#\Types\Types\bin\Debug\Types.exe.config
+D:\Documents\Desktop\C#\Types\Types\obj\Debug\Types.csprojResolveAssemblyReference.cache
+D:\Documents\Desktop\C#\Types\Types\bin\Debug\Types.exe
+D:\Documents\Desktop\C#\Types\Types\bin\Debug\Types.pdb
+D:\Documents\Desktop\C#\Types\Types\obj\Debug\Types.exe
+D:\Documents\Desktop\C#\Types\Types\obj\Debug\Types.pdb
+D:\Clouds\GoogleDrive\zakhozhay.oleg\My Projects\Visual Studio\Course\1 Types\Types\bin\Debug\Types.exe.config
+D:\Clouds\GoogleDrive\zakhozhay.oleg\My Projects\Visual Studio\Course\1 Types\Types\bin\Debug\Types.exe
+D:\Clouds\GoogleDrive\zakhozhay.oleg\My Projects\Visual Studio\Course\1 Types\Types\bin\Debug\Types.pdb
+D:\Clouds\GoogleDrive\zakhozhay.oleg\My Projects\Visual Studio\Course\1 Types\Types\obj\Debug\Types.csprojAssemblyReference.cache
+D:\Clouds\GoogleDrive\zakhozhay.oleg\My Projects\Visual Studio\Course\1 Types\Types\obj\Debug\Types.exe
+D:\Clouds\GoogleDrive\zakhozhay.oleg\My Projects\Visual Studio\Course\1 Types\Types\obj\Debug\Types.pdb

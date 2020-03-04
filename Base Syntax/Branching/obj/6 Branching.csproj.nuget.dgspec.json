@@ -1,0 +1,50 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Clouds\\GoogleDrive\\zakhozhay.oleg\\My Projects\\Visual Studio\\Course\\Base Syntax\\Branching\\6 Branching.csproj": {}
+  },
+  "projects": {
+    "D:\\Clouds\\GoogleDrive\\zakhozhay.oleg\\My Projects\\Visual Studio\\Course\\Base Syntax\\Branching\\6 Branching.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Clouds\\GoogleDrive\\zakhozhay.oleg\\My Projects\\Visual Studio\\Course\\Base Syntax\\Branching\\6 Branching.csproj",
+        "projectName": "6 Branching",
+        "projectPath": "D:\\Clouds\\GoogleDrive\\zakhozhay.oleg\\My Projects\\Visual Studio\\Course\\Base Syntax\\Branching\\6 Branching.csproj",
+        "packagesPath": "C:\\Users\\zoi\\.nuget\\packages\\",
+        "outputPath": "D:\\Clouds\\GoogleDrive\\zakhozhay.oleg\\My Projects\\Visual Studio\\Course\\Base Syntax\\Branching\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\zoi\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.0": {
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}

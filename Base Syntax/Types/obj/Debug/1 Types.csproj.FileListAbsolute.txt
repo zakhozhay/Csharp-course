@@ -1,0 +1,14 @@
+D:\Clouds\GoogleDrive\zakhozhay.oleg\My Projects\Visual Studio\Course\Base Syntax\Types\bin\Debug\Types.exe.config
+D:\Clouds\GoogleDrive\zakhozhay.oleg\My Projects\Visual Studio\Course\Base Syntax\Types\bin\Debug\Types.exe
+D:\Clouds\GoogleDrive\zakhozhay.oleg\My Projects\Visual Studio\Course\Base Syntax\Types\bin\Debug\Types.pdb
+D:\Clouds\GoogleDrive\zakhozhay.oleg\My Projects\Visual Studio\Course\Base Syntax\Types\obj\Debug\1 Types.csprojAssemblyReference.cache
+D:\Clouds\GoogleDrive\zakhozhay.oleg\My Projects\Visual Studio\Course\Base Syntax\Types\obj\Debug\1 Types.csproj.CoreCompileInputs.cache
+D:\Clouds\GoogleDrive\zakhozhay.oleg\My Projects\Visual Studio\Course\Base Syntax\Types\obj\Debug\Types.exe
+D:\Clouds\GoogleDrive\zakhozhay.oleg\My Projects\Visual Studio\Course\Base Syntax\Types\obj\Debug\Types.pdb
+\\Oleh-notebook\d\Clouds\GoogleDrive\zakhozhay.oleg\My Projects\Visual Studio\Course\Base Syntax\Types\bin\Debug\Types.exe.config
+\\Oleh-notebook\d\Clouds\GoogleDrive\zakhozhay.oleg\My Projects\Visual Studio\Course\Base Syntax\Types\bin\Debug\Types.exe
+\\Oleh-notebook\d\Clouds\GoogleDrive\zakhozhay.oleg\My Projects\Visual Studio\Course\Base Syntax\Types\bin\Debug\Types.pdb
+\\Oleh-notebook\d\Clouds\GoogleDrive\zakhozhay.oleg\My Projects\Visual Studio\Course\Base Syntax\Types\obj\Debug\1 Types.csprojAssemblyReference.cache
+\\Oleh-notebook\d\Clouds\GoogleDrive\zakhozhay.oleg\My Projects\Visual Studio\Course\Base Syntax\Types\obj\Debug\1 Types.csproj.CoreCompileInputs.cache
+\\Oleh-notebook\d\Clouds\GoogleDrive\zakhozhay.oleg\My Projects\Visual Studio\Course\Base Syntax\Types\obj\Debug\Types.exe
+\\Oleh-notebook\d\Clouds\GoogleDrive\zakhozhay.oleg\My Projects\Visual Studio\Course\Base Syntax\Types\obj\Debug\Types.pdb
