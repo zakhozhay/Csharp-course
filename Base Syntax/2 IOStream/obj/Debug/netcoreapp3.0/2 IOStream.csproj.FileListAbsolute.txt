@@ -9,3 +9,14 @@ D:\Clouds\GoogleDrive\zakhozhay.oleg\My Projects\Visual Studio\Course\1 Types\2 
 D:\Clouds\GoogleDrive\zakhozhay.oleg\My Projects\Visual Studio\Course\1 Types\2 IOStream\obj\Debug\netcoreapp3.0\2 IOStream.AssemblyInfo.cs
 D:\Clouds\GoogleDrive\zakhozhay.oleg\My Projects\Visual Studio\Course\1 Types\2 IOStream\obj\Debug\netcoreapp3.0\2 IOStream.dll
 D:\Clouds\GoogleDrive\zakhozhay.oleg\My Projects\Visual Studio\Course\1 Types\2 IOStream\obj\Debug\netcoreapp3.0\2 IOStream.pdb
+D:\Documents\GitHub\Csharp-course\Base Syntax\2 IOStream\bin\Debug\netcoreapp3.0\2 IOStream.exe
+D:\Documents\GitHub\Csharp-course\Base Syntax\2 IOStream\bin\Debug\netcoreapp3.0\2 IOStream.deps.json
+D:\Documents\GitHub\Csharp-course\Base Syntax\2 IOStream\bin\Debug\netcoreapp3.0\2 IOStream.runtimeconfig.json
+D:\Documents\GitHub\Csharp-course\Base Syntax\2 IOStream\bin\Debug\netcoreapp3.0\2 IOStream.runtimeconfig.dev.json
+D:\Documents\GitHub\Csharp-course\Base Syntax\2 IOStream\bin\Debug\netcoreapp3.0\2 IOStream.dll
+D:\Documents\GitHub\Csharp-course\Base Syntax\2 IOStream\bin\Debug\netcoreapp3.0\2 IOStream.pdb
+D:\Documents\GitHub\Csharp-course\Base Syntax\2 IOStream\obj\Debug\netcoreapp3.0\2 IOStream.csprojAssemblyReference.cache
+D:\Documents\GitHub\Csharp-course\Base Syntax\2 IOStream\obj\Debug\netcoreapp3.0\2 IOStream.AssemblyInfoInputs.cache
+D:\Documents\GitHub\Csharp-course\Base Syntax\2 IOStream\obj\Debug\netcoreapp3.0\2 IOStream.AssemblyInfo.cs
+D:\Documents\GitHub\Csharp-course\Base Syntax\2 IOStream\obj\Debug\netcoreapp3.0\2 IOStream.dll
+D:\Documents\GitHub\Csharp-course\Base Syntax\2 IOStream\obj\Debug\netcoreapp3.0\2 IOStream.pdb
