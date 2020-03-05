@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Documents\\GitHub\\Csharp-course\\Base Syntax\\2 IOStream\\2 IOStream.csproj": {}
+    "D:\\Documents\\GitHub\\Csharp-course\\Base Syntax\\3 Ariphmetic\\3 Ariphmetic.csproj": {}
   },
   "projects": {
-    "D:\\Documents\\GitHub\\Csharp-course\\Base Syntax\\2 IOStream\\2 IOStream.csproj": {
+    "D:\\Documents\\GitHub\\Csharp-course\\Base Syntax\\3 Ariphmetic\\3 Ariphmetic.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Documents\\GitHub\\Csharp-course\\Base Syntax\\2 IOStream\\2 IOStream.csproj",
-        "projectName": "2 IOStream",
-        "projectPath": "D:\\Documents\\GitHub\\Csharp-course\\Base Syntax\\2 IOStream\\2 IOStream.csproj",
+        "projectUniqueName": "D:\\Documents\\GitHub\\Csharp-course\\Base Syntax\\3 Ariphmetic\\3 Ariphmetic.csproj",
+        "projectName": "3 Ariphmetic",
+        "projectPath": "D:\\Documents\\GitHub\\Csharp-course\\Base Syntax\\3 Ariphmetic\\3 Ariphmetic.csproj",
         "packagesPath": "C:\\Users\\zoi\\.nuget\\packages\\",
-        "outputPath": "D:\\Documents\\GitHub\\Csharp-course\\Base Syntax\\2 IOStream\\obj\\",
+        "outputPath": "D:\\Documents\\GitHub\\Csharp-course\\Base Syntax\\3 Ariphmetic\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
