@@ -4,5 +4,5 @@ The repository contains a Microsoft VisualStudio solution for learning basic C #
 For use:
 1. Open the decision.
 2. In the Project Explorer, select a project that you do not want to use.
-3. Start the project, look at the result, and map it to the code.
+3. Start the project, look at the result, and map it to the code.<br />
 I wish success!
