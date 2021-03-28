@@ -11,3 +11,7 @@ D:\Documents\GitHub\Csharp-course\Base Syntax\6 Branching\obj\Debug\netcoreapp3.
 D:\Documents\GitHub\Csharp-course\Base Syntax\6 Branching\obj\Debug\netcoreapp3.0\6 Branching.pdb
 D:\Documents\GitHub\Csharp-course\Base Syntax\6 Branching\obj\Debug\netcoreapp3.0\6 Branching.csproj.CoreCompileInputs.cache
 D:\Documents\GitHub\Csharp-course\Base Syntax\6 Branching\obj\Debug\netcoreapp3.0\6 Branching.genruntimeconfig.cache
+D:\Documents\GitHub\Csharp-course\Base Syntax\6 Branching\bin\Debug\netcoreapp3.0\Fibonacci.exe
+D:\Documents\GitHub\Csharp-course\Base Syntax\6 Branching\bin\Debug\netcoreapp3.0\Fibonacci.pdb
+D:\Documents\GitHub\Csharp-course\Base Syntax\6 Branching\bin\Debug\netcoreapp3.0\Fibonacci.exe.config
+D:\Documents\GitHub\Csharp-course\Base Syntax\6 Branching\obj\Debug\netcoreapp3.0\6 Branching.csproj.CopyComplete
