@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Documents\\GitHub\\Csharp-course\\Base Syntax\\9 Classes\\9 Classes\\9 Classes.csproj",
-      "projectName": "9 Classes",
-      "projectPath": "D:\\Documents\\GitHub\\Csharp-course\\Base Syntax\\9 Classes\\9 Classes\\9 Classes.csproj",
+      "projectUniqueName": "D:\\Documents\\GitHub\\Csharp-course\\Base Syntax\\7 Arrays\\7 Arrays.csproj",
+      "projectName": "7 Arrays",
+      "projectPath": "D:\\Documents\\GitHub\\Csharp-course\\Base Syntax\\7 Arrays\\7 Arrays.csproj",
       "packagesPath": "C:\\Users\\zoi\\.nuget\\packages\\",
-      "outputPath": "D:\\Documents\\GitHub\\Csharp-course\\Base Syntax\\9 Classes\\9 Classes\\obj\\",
+      "outputPath": "D:\\Documents\\GitHub\\Csharp-course\\Base Syntax\\7 Arrays\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

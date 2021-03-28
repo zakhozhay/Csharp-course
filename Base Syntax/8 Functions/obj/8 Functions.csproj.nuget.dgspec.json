@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Documents\\GitHub\\Csharp-course\\Base Syntax\\9 Classes\\9 Classes\\9 Classes.csproj": {}
+    "D:\\Documents\\GitHub\\Csharp-course\\Base Syntax\\8 Functions\\8 Functions.csproj": {}
   },
   "projects": {
-    "D:\\Documents\\GitHub\\Csharp-course\\Base Syntax\\9 Classes\\9 Classes\\9 Classes.csproj": {
+    "D:\\Documents\\GitHub\\Csharp-course\\Base Syntax\\8 Functions\\8 Functions.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Documents\\GitHub\\Csharp-course\\Base Syntax\\9 Classes\\9 Classes\\9 Classes.csproj",
-        "projectName": "9 Classes",
-        "projectPath": "D:\\Documents\\GitHub\\Csharp-course\\Base Syntax\\9 Classes\\9 Classes\\9 Classes.csproj",
+        "projectUniqueName": "D:\\Documents\\GitHub\\Csharp-course\\Base Syntax\\8 Functions\\8 Functions.csproj",
+        "projectName": "8 Functions",
+        "projectPath": "D:\\Documents\\GitHub\\Csharp-course\\Base Syntax\\8 Functions\\8 Functions.csproj",
         "packagesPath": "C:\\Users\\zoi\\.nuget\\packages\\",
-        "outputPath": "D:\\Documents\\GitHub\\Csharp-course\\Base Syntax\\9 Classes\\9 Classes\\obj\\",
+        "outputPath": "D:\\Documents\\GitHub\\Csharp-course\\Base Syntax\\8 Functions\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

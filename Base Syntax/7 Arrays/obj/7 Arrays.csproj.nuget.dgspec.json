@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Documents\\GitHub\\Csharp-course\\Base Syntax\\8 Functions\\8 Functions\\8 Functions.csproj": {}
+    "D:\\Documents\\GitHub\\Csharp-course\\Base Syntax\\7 Arrays\\7 Arrays.csproj": {}
   },
   "projects": {
-    "D:\\Documents\\GitHub\\Csharp-course\\Base Syntax\\8 Functions\\8 Functions\\8 Functions.csproj": {
+    "D:\\Documents\\GitHub\\Csharp-course\\Base Syntax\\7 Arrays\\7 Arrays.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Documents\\GitHub\\Csharp-course\\Base Syntax\\8 Functions\\8 Functions\\8 Functions.csproj",
-        "projectName": "8 Functions",
-        "projectPath": "D:\\Documents\\GitHub\\Csharp-course\\Base Syntax\\8 Functions\\8 Functions\\8 Functions.csproj",
+        "projectUniqueName": "D:\\Documents\\GitHub\\Csharp-course\\Base Syntax\\7 Arrays\\7 Arrays.csproj",
+        "projectName": "7 Arrays",
+        "projectPath": "D:\\Documents\\GitHub\\Csharp-course\\Base Syntax\\7 Arrays\\7 Arrays.csproj",
         "packagesPath": "C:\\Users\\zoi\\.nuget\\packages\\",
-        "outputPath": "D:\\Documents\\GitHub\\Csharp-course\\Base Syntax\\8 Functions\\8 Functions\\obj\\",
+        "outputPath": "D:\\Documents\\GitHub\\Csharp-course\\Base Syntax\\7 Arrays\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
