@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Text; //залежність, яка необхідна для роботи з кодуванням консолі
 
 namespace Branching
 {
@@ -6,6 +7,7 @@ namespace Branching
     {
         static void Main(string[] args)
         {
+            Console.OutputEncoding = Encoding.UTF8; //зміна кодування уонсолі для виведення українських симовлів
             //----------------------------------- Використання оператору if else ----------------------------------
             Console.WriteLine("Введіть бал: ");
             int score = int.Parse(Console.ReadLine());

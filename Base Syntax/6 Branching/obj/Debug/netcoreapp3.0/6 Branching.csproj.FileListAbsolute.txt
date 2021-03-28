@@ -9,3 +9,5 @@ D:\Documents\GitHub\Csharp-course\Base Syntax\6 Branching\obj\Debug\netcoreapp3.
 D:\Documents\GitHub\Csharp-course\Base Syntax\6 Branching\obj\Debug\netcoreapp3.0\6 Branching.AssemblyInfo.cs
 D:\Documents\GitHub\Csharp-course\Base Syntax\6 Branching\obj\Debug\netcoreapp3.0\6 Branching.dll
 D:\Documents\GitHub\Csharp-course\Base Syntax\6 Branching\obj\Debug\netcoreapp3.0\6 Branching.pdb
+D:\Documents\GitHub\Csharp-course\Base Syntax\6 Branching\obj\Debug\netcoreapp3.0\6 Branching.csproj.CoreCompileInputs.cache
+D:\Documents\GitHub\Csharp-course\Base Syntax\6 Branching\obj\Debug\netcoreapp3.0\6 Branching.genruntimeconfig.cache

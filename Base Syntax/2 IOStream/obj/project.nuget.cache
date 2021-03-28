@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "OeQm/Lfwc2YdGVwif2LFeU7JCpeEPLP/+lQZCV5lmK46p5GkUO3PnAy/7xLJN54dW0rgfbkov1rX2YEmn+81Ow==",
+  "success": true,
+  "projectFilePath": "D:\\Documents\\GitHub\\Csharp-course\\Base Syntax\\2 IOStream\\2 IOStream.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\zoi\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.0.3\\microsoft.netcore.app.host.win-x64.3.0.3.nupkg.sha512",
+    "C:\\Users\\zoi\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.0.1\\microsoft.aspnetcore.app.ref.3.0.1.nupkg.sha512",
+    "C:\\Users\\zoi\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.0.0\\microsoft.windowsdesktop.app.ref.3.0.0.nupkg.sha512",
+    "C:\\Users\\zoi\\.nuget\\packages\\microsoft.netcore.app.ref\\3.0.0\\microsoft.netcore.app.ref.3.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
