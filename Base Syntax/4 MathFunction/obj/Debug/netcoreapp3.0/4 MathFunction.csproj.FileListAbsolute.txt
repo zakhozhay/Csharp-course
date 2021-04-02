@@ -19,3 +19,5 @@ D:\Documents\GitHub\Csharp-course\Base Syntax\4 MathFunction\obj\Debug\netcoreap
 D:\Documents\GitHub\Csharp-course\Base Syntax\4 MathFunction\obj\Debug\netcoreapp3.0\4 MathFunction.AssemblyInfo.cs
 D:\Documents\GitHub\Csharp-course\Base Syntax\4 MathFunction\obj\Debug\netcoreapp3.0\4 MathFunction.dll
 D:\Documents\GitHub\Csharp-course\Base Syntax\4 MathFunction\obj\Debug\netcoreapp3.0\4 MathFunction.pdb
+D:\Documents\GitHub\Csharp-course\Base Syntax\4 MathFunction\obj\Debug\netcoreapp3.0\4 MathFunction.csproj.CoreCompileInputs.cache
+D:\Documents\GitHub\Csharp-course\Base Syntax\4 MathFunction\obj\Debug\netcoreapp3.0\4 MathFunction.genruntimeconfig.cache

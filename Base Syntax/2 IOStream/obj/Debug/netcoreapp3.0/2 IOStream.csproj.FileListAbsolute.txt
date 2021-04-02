@@ -15,8 +15,9 @@ D:\Documents\GitHub\Csharp-course\Base Syntax\2 IOStream\bin\Debug\netcoreapp3.0
 D:\Documents\GitHub\Csharp-course\Base Syntax\2 IOStream\bin\Debug\netcoreapp3.0\2 IOStream.runtimeconfig.dev.json
 D:\Documents\GitHub\Csharp-course\Base Syntax\2 IOStream\bin\Debug\netcoreapp3.0\2 IOStream.dll
 D:\Documents\GitHub\Csharp-course\Base Syntax\2 IOStream\bin\Debug\netcoreapp3.0\2 IOStream.pdb
-D:\Documents\GitHub\Csharp-course\Base Syntax\2 IOStream\obj\Debug\netcoreapp3.0\2 IOStream.csprojAssemblyReference.cache
 D:\Documents\GitHub\Csharp-course\Base Syntax\2 IOStream\obj\Debug\netcoreapp3.0\2 IOStream.AssemblyInfoInputs.cache
 D:\Documents\GitHub\Csharp-course\Base Syntax\2 IOStream\obj\Debug\netcoreapp3.0\2 IOStream.AssemblyInfo.cs
 D:\Documents\GitHub\Csharp-course\Base Syntax\2 IOStream\obj\Debug\netcoreapp3.0\2 IOStream.dll
 D:\Documents\GitHub\Csharp-course\Base Syntax\2 IOStream\obj\Debug\netcoreapp3.0\2 IOStream.pdb
+D:\Documents\GitHub\Csharp-course\Base Syntax\2 IOStream\obj\Debug\netcoreapp3.0\2 IOStream.csproj.CoreCompileInputs.cache
+D:\Documents\GitHub\Csharp-course\Base Syntax\2 IOStream\obj\Debug\netcoreapp3.0\2 IOStream.genruntimeconfig.cache

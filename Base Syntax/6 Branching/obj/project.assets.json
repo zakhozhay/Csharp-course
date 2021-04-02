@@ -1,14 +1,33 @@
 {
   "version": 3,
   "targets": {
-    ".NETCoreApp,Version=v3.0": {}
+    ".NETCoreApp,Version=v3.0": {
+      "10 Fibonacci/1.0.0": {
+        "type": "project",
+        "compile": {
+          "bin/placeholder/10 Fibonacci.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/10 Fibonacci.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "10 Fibonacci/1.0.0": {
+      "type": "project",
+      "path": "../10 Fibonacci by recursion/10 Fibonacci.csproj",
+      "msbuildProject": "../10 Fibonacci by recursion/10 Fibonacci.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    ".NETCoreApp,Version=v3.0": []
+    ".NETCoreApp,Version=v3.0": [
+      "10 Fibonacci >= 1.0.0"
+    ]
   },
   "packageFolders": {
-    "C:\\Users\\zoi\\.nuget\\packages\\": {}
+    "C:\\Users\\zoi\\.nuget\\packages\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
@@ -19,21 +38,26 @@
       "packagesPath": "C:\\Users\\zoi\\.nuget\\packages\\",
       "outputPath": "D:\\Documents\\GitHub\\Csharp-course\\Base Syntax\\6 Branching\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+      ],
       "configFilePaths": [
-        "C:\\Users\\zoi\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "C:\\Users\\zoi\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp3.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "netcoreapp3.0": {
           "targetAlias": "netcoreapp3.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "D:\\Documents\\GitHub\\Csharp-course\\Base Syntax\\10 Fibonacci by recursion\\10 Fibonacci.csproj": {
+              "projectPath": "D:\\Documents\\GitHub\\Csharp-course\\Base Syntax\\10 Fibonacci by recursion\\10 Fibonacci.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

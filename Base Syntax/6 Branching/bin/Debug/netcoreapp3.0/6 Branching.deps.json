@@ -10,11 +10,21 @@
         "runtime": {
           "6 Branching.dll": {}
         }
+      },
+      "10 Fibonacci/1.0.0": {
+        "runtime": {
+          "Fibonacci.exe": {}
+        }
       }
     }
   },
   "libraries": {
     "6 Branching/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "10 Fibonacci/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
