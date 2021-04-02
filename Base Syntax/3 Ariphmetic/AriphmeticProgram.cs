@@ -6,6 +6,8 @@ namespace Ariphmetic
     {
         static void Main(string[] args)
         {
+            Console.OutputEncoding = Encoding.UTF8; //Переключення консолі на використання UTF8 кодування
+
             int x1, x2;
             Console.Write("Введіть x1: ");
             x1 = Convert.ToInt32(Console.ReadLine());

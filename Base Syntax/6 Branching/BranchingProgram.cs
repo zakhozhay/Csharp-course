@@ -1,5 +1,5 @@
 ﻿using System;
-using System.Text;
+using System.Text; //необхідна для використання класу Encoding в якому задається кодування
 
 namespace Branching
 {
@@ -7,7 +7,8 @@ namespace Branching
     {
         static void Main(string[] args)
         {
-            Console.OutputEncoding = Encoding.UTF8;
+            Console.OutputEncoding = Encoding.UTF8; //Переключення консолы на використання UTF8 кодування
+
             //----------------------------------- Використання оператору if else ----------------------------------
             Console.WriteLine("Введіть бал: ");
             int score = int.Parse(Console.ReadLine());

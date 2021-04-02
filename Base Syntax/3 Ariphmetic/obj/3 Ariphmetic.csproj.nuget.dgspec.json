@@ -4,6 +4,16 @@
     "D:\\Documents\\GitHub\\Csharp-course\\Base Syntax\\3 Ariphmetic\\3 Ariphmetic.csproj": {}
   },
   "projects": {
+    "D:\\Documents\\GitHub\\Csharp-course\\Base Syntax\\10 Fibonacci by recursion\\10 Fibonacci.csproj": {
+      "restore": {
+        "projectUniqueName": "D:\\Documents\\GitHub\\Csharp-course\\Base Syntax\\10 Fibonacci by recursion\\10 Fibonacci.csproj",
+        "projectName": "10 Fibonacci",
+        "projectPath": "D:\\Documents\\GitHub\\Csharp-course\\Base Syntax\\10 Fibonacci by recursion\\10 Fibonacci.csproj"
+      },
+      "frameworks": {
+        "net452": {}
+      }
+    },
     "D:\\Documents\\GitHub\\Csharp-course\\Base Syntax\\3 Ariphmetic\\3 Ariphmetic.csproj": {
       "version": "1.0.0",
       "restore": {
@@ -27,7 +37,11 @@
         "frameworks": {
           "netcoreapp3.0": {
             "targetAlias": "netcoreapp3.0",
-            "projectReferences": {}
+            "projectReferences": {
+              "D:\\Documents\\GitHub\\Csharp-course\\Base Syntax\\10 Fibonacci by recursion\\10 Fibonacci.csproj": {
+                "projectPath": "D:\\Documents\\GitHub\\Csharp-course\\Base Syntax\\10 Fibonacci by recursion\\10 Fibonacci.csproj"
+              }
+            }
           }
         },
         "warningProperties": {

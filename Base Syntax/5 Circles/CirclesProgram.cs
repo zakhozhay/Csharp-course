@@ -6,6 +6,8 @@ namespace Circles
     {
         static void Main(string[] args)
         {
+            Console.OutputEncoding = Encoding.UTF8; //Переключення консолі на використання UTF8 кодування
+
             //----------------------------------- Використання циклу for ----------------------------------
             char symbol;
             for (int code = 0; code <= 255; code++)
