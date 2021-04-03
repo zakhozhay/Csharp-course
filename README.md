@@ -1,4 +1,4 @@
-# Csharp learning course
+# C# learning course
 Education samples<br />
 The repository contains a Microsoft VisualStudio solution for learning basic C # language designs. Each project corresponds to a separate course topic. Project titles also correspond to topics.
 For use:
