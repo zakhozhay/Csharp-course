@@ -8,7 +8,12 @@
       "restore": {
         "projectUniqueName": "D:\\Documents\\GitHub\\Csharp-course\\Base Syntax\\10 Fibonacci by recursion\\10 Fibonacci.csproj",
         "projectName": "10 Fibonacci",
-        "projectPath": "D:\\Documents\\GitHub\\Csharp-course\\Base Syntax\\10 Fibonacci by recursion\\10 Fibonacci.csproj"
+        "projectPath": "D:\\Documents\\GitHub\\Csharp-course\\Base Syntax\\10 Fibonacci by recursion\\10 Fibonacci.csproj",
+        "frameworks": {
+          "net452": {
+            "projectReferences": {}
+          }
+        }
       },
       "frameworks": {
         "net452": {}
@@ -86,7 +91,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.407\\RuntimeIdentifierGraph.json"
         }
       }
     }
