@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "qImLv0RxisDllT4bpq5BD29MuU8fkMTMFCLNHKbfIxwkjPTx5aPt/EPtXKVR7uUwc937BA0jeFVR+3hpmyDsmg==",
+  "success": true,
+  "projectFilePath": "D:\\Documents\\GitHub\\Csharp-course\\Base Syntax\\07 Arrays\\07 Arrays.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\zoi\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.32\\microsoft.netcore.app.host.win-x64.3.1.32.nupkg.sha512",
+    "C:\\Users\\zoi\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\zoi\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\zoi\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}

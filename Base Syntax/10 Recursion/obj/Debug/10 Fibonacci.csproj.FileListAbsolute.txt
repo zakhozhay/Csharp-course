@@ -1,0 +1,8 @@
+D:\Documents\GitHub\Csharp-course\Base Syntax\10 Fibonacci by recursion\bin\Debug\Fibonacci.exe.config
+D:\Documents\GitHub\Csharp-course\Base Syntax\10 Fibonacci by recursion\bin\Debug\Fibonacci.exe
+D:\Documents\GitHub\Csharp-course\Base Syntax\10 Fibonacci by recursion\bin\Debug\Fibonacci.pdb
+D:\Documents\GitHub\Csharp-course\Base Syntax\10 Fibonacci by recursion\obj\Debug\10 Fibonacci.csproj.AssemblyReference.cache
+D:\Documents\GitHub\Csharp-course\Base Syntax\10 Fibonacci by recursion\obj\Debug\10 Fibonacci.csproj.SuggestedBindingRedirects.cache
+D:\Documents\GitHub\Csharp-course\Base Syntax\10 Fibonacci by recursion\obj\Debug\10 Fibonacci.csproj.CoreCompileInputs.cache
+D:\Documents\GitHub\Csharp-course\Base Syntax\10 Fibonacci by recursion\obj\Debug\Fibonacci.exe
+D:\Documents\GitHub\Csharp-course\Base Syntax\10 Fibonacci by recursion\obj\Debug\Fibonacci.pdb

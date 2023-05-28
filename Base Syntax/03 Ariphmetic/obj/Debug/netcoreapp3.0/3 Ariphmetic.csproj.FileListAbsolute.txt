@@ -1,0 +1,25 @@
+D:\Clouds\GoogleDrive\zakhozhay.oleg\My Projects\Visual Studio\Course\1 Types\Ariphmetic\bin\Debug\netcoreapp3.0\3 Ariphmetic.exe
+D:\Clouds\GoogleDrive\zakhozhay.oleg\My Projects\Visual Studio\Course\1 Types\Ariphmetic\bin\Debug\netcoreapp3.0\3 Ariphmetic.deps.json
+D:\Clouds\GoogleDrive\zakhozhay.oleg\My Projects\Visual Studio\Course\1 Types\Ariphmetic\bin\Debug\netcoreapp3.0\3 Ariphmetic.runtimeconfig.json
+D:\Clouds\GoogleDrive\zakhozhay.oleg\My Projects\Visual Studio\Course\1 Types\Ariphmetic\bin\Debug\netcoreapp3.0\3 Ariphmetic.runtimeconfig.dev.json
+D:\Clouds\GoogleDrive\zakhozhay.oleg\My Projects\Visual Studio\Course\1 Types\Ariphmetic\bin\Debug\netcoreapp3.0\3 Ariphmetic.dll
+D:\Clouds\GoogleDrive\zakhozhay.oleg\My Projects\Visual Studio\Course\1 Types\Ariphmetic\bin\Debug\netcoreapp3.0\3 Ariphmetic.pdb
+D:\Clouds\GoogleDrive\zakhozhay.oleg\My Projects\Visual Studio\Course\1 Types\Ariphmetic\obj\Debug\netcoreapp3.0\3 Ariphmetic.AssemblyInfoInputs.cache
+D:\Clouds\GoogleDrive\zakhozhay.oleg\My Projects\Visual Studio\Course\1 Types\Ariphmetic\obj\Debug\netcoreapp3.0\3 Ariphmetic.AssemblyInfo.cs
+D:\Clouds\GoogleDrive\zakhozhay.oleg\My Projects\Visual Studio\Course\1 Types\Ariphmetic\obj\Debug\netcoreapp3.0\3 Ariphmetic.dll
+D:\Clouds\GoogleDrive\zakhozhay.oleg\My Projects\Visual Studio\Course\1 Types\Ariphmetic\obj\Debug\netcoreapp3.0\3 Ariphmetic.pdb
+D:\Clouds\GoogleDrive\zakhozhay.oleg\My Projects\Visual Studio\Course\1 Types\Ariphmetic\obj\Debug\netcoreapp3.0\3 Ariphmetic.csprojAssemblyReference.cache
+D:\Documents\GitHub\Csharp-course\Base Syntax\3 Ariphmetic\bin\Debug\netcoreapp3.0\3 Ariphmetic.exe
+D:\Documents\GitHub\Csharp-course\Base Syntax\3 Ariphmetic\bin\Debug\netcoreapp3.0\3 Ariphmetic.deps.json
+D:\Documents\GitHub\Csharp-course\Base Syntax\3 Ariphmetic\bin\Debug\netcoreapp3.0\3 Ariphmetic.runtimeconfig.json
+D:\Documents\GitHub\Csharp-course\Base Syntax\3 Ariphmetic\bin\Debug\netcoreapp3.0\3 Ariphmetic.runtimeconfig.dev.json
+D:\Documents\GitHub\Csharp-course\Base Syntax\3 Ariphmetic\bin\Debug\netcoreapp3.0\3 Ariphmetic.dll
+D:\Documents\GitHub\Csharp-course\Base Syntax\3 Ariphmetic\bin\Debug\netcoreapp3.0\3 Ariphmetic.pdb
+D:\Documents\GitHub\Csharp-course\Base Syntax\3 Ariphmetic\obj\Debug\netcoreapp3.0\3 Ariphmetic.AssemblyInfoInputs.cache
+D:\Documents\GitHub\Csharp-course\Base Syntax\3 Ariphmetic\obj\Debug\netcoreapp3.0\3 Ariphmetic.AssemblyInfo.cs
+D:\Documents\GitHub\Csharp-course\Base Syntax\3 Ariphmetic\obj\Debug\netcoreapp3.0\3 Ariphmetic.dll
+D:\Documents\GitHub\Csharp-course\Base Syntax\3 Ariphmetic\obj\Debug\netcoreapp3.0\3 Ariphmetic.pdb
+D:\Documents\GitHub\Csharp-course\Base Syntax\3 Ariphmetic\obj\Debug\netcoreapp3.0\3 Ariphmetic.csproj.CoreCompileInputs.cache
+D:\Documents\GitHub\Csharp-course\Base Syntax\3 Ariphmetic\obj\Debug\netcoreapp3.0\3 Ariphmetic.genruntimeconfig.cache
+D:\Documents\GitHub\Csharp-course\Base Syntax\3 Ariphmetic\obj\Debug\netcoreapp3.0\3 Ariphmetic.csproj.AssemblyReference.cache
+D:\Documents\GitHub\Csharp-course\Base Syntax\3 Ariphmetic\obj\Debug\netcoreapp3.0\3 Ariphmetic.GeneratedMSBuildEditorConfig.editorconfig
